@@ -3,7 +3,7 @@
   "short_name": "Hervey Bay",
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#0A2540",
+  "theme_color": "#2E8B57",
   "background_color": "#FFFFFF",
   "icons": [
     {
@@ -11,5 +11,10 @@
       "sizes": "any",
       "type": "image/svg+xml"
     }
-  ]
+  ],
+  "lang": "en",
+  "orientation": "natural",
+  "scope": "/",
+  "description": "Professional geotechnical services in Hervey Bay, Australia. Soil studies, testing and technical consulting.",
+  "id": "/hervey-bay-6397"
 }
